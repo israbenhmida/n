@@ -1,0 +1,14 @@
+
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒıÇ¢ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÇÏ³üÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'com.example.projet.Entities.Chambre'.(Øüÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'com.example.projet.Entities.Club'.(©ÏÆ“ıÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.example.projet.Interfaces.IRestaurant'.(ÉÓş
+^
+java:S1128"CRemove this unused import 'com.example.projet.Services.ChambreImp'.(ß¬¤êıÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ

@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ´Îì
+x
+java:S3305/"]Inject this field value directly into "authenticationProvider", the only method that uses it.(¾ûî”øÿÿÿÿ
+u
+java:S3305,"ZInject this field value directly into "securityFilterChain", the only method that uses it.(Ô¨›¶þÿÿÿÿ
+^
+java:S5738B"HRemove this call to a deprecated method, it has been marked for removal.(éß„±
+^
+java:S5738D"HRemove this call to a deprecated method, it has been marked for removal.(ÏðÅô
+^
+java:S5738F"HRemove this call to a deprecated method, it has been marked for removal.(Ñ”ÇÙ
+^
+java:S5738G"HRemove this call to a deprecated method, it has been marked for removal.(ÏðÅô
+c
+java:S5738J"HRemove this call to a deprecated method, it has been marked for removal.(ÿ¥ƒòùÿÿÿÿ
+c
+java:S5738J"HRemove this call to a deprecated method, it has been marked for removal.(ÿ¥ƒòùÿÿÿÿ
+c
+java:S5738L"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ
